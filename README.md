@@ -2,7 +2,7 @@
 
 ### Securely share sensitive information with one-time access, no traces left behind.
 
-**🌐 Live Demo:** [https://zknote.cc](https://zknote.cc)
+> ⚠️ **Status:** This project has been discontinued and the live demo (zknote.cc) is no longer available.
 
 - Confidently share passwords, backup codes, or keys on untrusted platforms
 - Quickly and easily move plaintext data between devices
